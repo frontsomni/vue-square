@@ -1,0 +1,29 @@
+{
+  "name": "vue-square",
+  "version": "2.3.0",
+  "homepage": "",
+  "bugs": {},
+  "repository": {},
+  "description": "one vue square componet test",
+  "main": "lib/vue-squre.umd.min.js",
+  "scripts": {
+    "serve": "vue serve Test.vue",
+    "build": "vue build -t lib -n vue-squre VueSquare.vue -d lib"
+  },
+  "keywords": [
+    "vue",
+    "vue components",
+    "square",
+    "component"
+  ],
+  "files": [
+    "bin",
+    "doc",
+    "test",
+    "lib",
+    "types"
+  ],
+  "author": "yuelau",
+  "contributors": [],
+  "license": "MIT"
+}
