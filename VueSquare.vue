@@ -39,7 +39,7 @@ div{
 }
 @keyframes scale {
   100%{
-    transform: scale(2);
+    transform: scale(1.5);
   }
 }
 </style>
