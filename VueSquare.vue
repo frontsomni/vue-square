@@ -1,7 +1,11 @@
 <template>
-  <div><span :style="{
-    color: textColor
-  }">{{text}}</span></div>
+  <div>
+    <span :style="{
+      color: textColor
+    }">
+      {{text}}
+    </span>
+  </div>
 </template>
 
 <script>
